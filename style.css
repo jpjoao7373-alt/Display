@@ -1,0 +1,10 @@
+nav {
+    display:block;
+    gap: 0;
+
+}
+
+nav a {
+    padding: 40px;
+    border: 30;
+}
