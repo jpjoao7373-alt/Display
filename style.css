@@ -4,11 +4,75 @@ nav {
 
 }
 
-nav a {
-    padding: 40px;
-    border: 1px solid black;
+nav {
+    a {
+        padding: 40px;
+        border: 1px solid black;
+        margin: 10px;
+        padding: 10px;
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+}
+
+main{
+nav {
+    p.j {
+        border: 2px solid black; 
+        width: 260px;
+        height: 180px;
+        display: inline-block;
+       
+        
+    }
+
+    p.b {
+        border: 2px solid black; 
+        width: 260px;
+        height: 180px;
+        display: inline-block;
+      
+    }
+
+    p.c {
+        border: 2px solid black; 
+        width: 260px;
+        height: 180px;
+        display: inline-block;
+       
+    }
+
+    p.d {
+        border: 2px solid black; 
+        width: 260px;
+        height: 180px;
+        display: inline-block;
+     
+        
+    }
+
+    p.e {
+        border: 2px solid black; 
+        width: 260px;
+        height: 180px;
+        display: inline-block;
+
+    }
+
+    p.f {
+        border: 2px solid black; 
+         width: 260px;
+        height: 180px;
+        display: inline-block;
+       
+    }
+}
+.kk {
+    border:  2px solid black;
+    padding: 15px;
     margin: 10px;
-    padding: 10px;
-    padding-right: 20px;
-    padding-left: 20px;
+    
+
+}
+
 }
